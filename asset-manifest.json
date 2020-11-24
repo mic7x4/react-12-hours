@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-12-hours/static/css/main.bf56393d.chunk.css",
+    "main.js": "/react-12-hours/static/js/main.3b50c72c.chunk.js",
+    "main.js.map": "/react-12-hours/static/js/main.3b50c72c.chunk.js.map",
+    "runtime-main.js": "/react-12-hours/static/js/runtime-main.19d69a8f.js",
+    "runtime-main.js.map": "/react-12-hours/static/js/runtime-main.19d69a8f.js.map",
+    "static/js/2.a7472ebf.chunk.js": "/react-12-hours/static/js/2.a7472ebf.chunk.js",
+    "static/js/2.a7472ebf.chunk.js.map": "/react-12-hours/static/js/2.a7472ebf.chunk.js.map",
+    "static/js/3.60103596.chunk.js": "/react-12-hours/static/js/3.60103596.chunk.js",
+    "static/js/3.60103596.chunk.js.map": "/react-12-hours/static/js/3.60103596.chunk.js.map",
+    "index.html": "/react-12-hours/index.html",
+    "static/css/main.bf56393d.chunk.css.map": "/react-12-hours/static/css/main.bf56393d.chunk.css.map",
+    "static/js/2.a7472ebf.chunk.js.LICENSE.txt": "/react-12-hours/static/js/2.a7472ebf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-12-hours/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19d69a8f.js",
+    "static/js/2.a7472ebf.chunk.js",
+    "static/css/main.bf56393d.chunk.css",
+    "static/js/main.3b50c72c.chunk.js"
+  ]
+}
